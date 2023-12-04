@@ -12,7 +12,7 @@ public class Calculadora {
         // float operador2 = 0;
 
         // Definir variable para seleccionar la operación
-        int operacion = 5; // Cambia el valor de operacion a un número entre 1 y 4
+        int operacion = 5; // Cambiar el valor a un número entre 1 y 4 según la operación a ejecutar
 
         //Calculadora
         switch (operacion) {
