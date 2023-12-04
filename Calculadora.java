@@ -8,20 +8,20 @@ public class Calculadora {
         //float operador2 = 0;
 
         // Suma
-        System.out.print("Resultado de la suma = " + (operador1 + operador2));
+        System.out.println("Resultado de la suma = " + (operador1 + operador2));
         
         // Resta
-        System.out.print("Resultado de la suma = " + (operador1 - operador2));
+        System.out.println("Resultado de la suma = " + (operador1 - operador2));
 
         // Multiplicación
-        System.out.print("Resultado de la suma = " + (operador1 * operador2));
+        System.out.println("Resultado de la suma = " + (operador1 * operador2));
         
         // División por cero da infinito. Control de errores.
         if (operador2 == 0) {
-            System.out.print("No se puede realizar la división por cero");
+            System.out.println("No se puede realizar la división por cero");
         } else {
             // División
-            System.out.print("Resultado de la suma = " + (operador1 / operador2));
+            System.out.println("Resultado de la suma = " + (operador1 / operador2));
         }
     }
 }
