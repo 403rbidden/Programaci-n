@@ -44,9 +44,9 @@ Escoge uno de los siguientes simbolos, segun sea necesario:
 Indica el simbolo: /
 
 Introduce el segundo operador: 0
-Error: Division por cero no permitida.     
+Error: Division por cero no permitida.
+   
 ¿Desea realizar otra operacion?
-
 Pulse [S] para si y [N] para salir del programa: n
 
 Gracias por usar esta calculadora.
