@@ -5,7 +5,7 @@ Lógica, algoritmos, estructuras de datos y resolución de problemas para desaro
 Calculadora.
 
 
-Ejemplo de utilización
+Ejemplo de utilización:
 
 
 ```
